@@ -1,6 +1,6 @@
 <h1>ToDo App</h1>
 
-[DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+[DEMO LINK](https://sveta-kryukova.github.io/ToDo_App_with-api/)
 
 <h2>Description</h2>
 Todo app with api. Firstly user shoul enter his email adress and app can check if there is registed user or user should sign up. After, user see an input where he can write what should he do. All todos added to a list where user can change status of todo, can delete choosen todo or edit todo. Also user can filter list by status, can change status of all todos with a button in input. After all user can delete all complited todos withone button. 
